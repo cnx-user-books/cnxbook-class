@@ -1,0 +1,311 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Physics in the Science of Complex Systems - Draft 0</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>236868d8-cdf4-4f01-9221-eab3af80e989</md:uuid>
+</metadata>
+  <content>
+    <section id="id-912223120664">
+      <title>Physics in the Science of Complex Systems – Draft 0</title>
+      <para id="id6753407">The lectures are organized in lessons within 
+thematic courses. </para>
+      <section id="id-540240443554">
+        <title>General introduction</title>
+        <para id="id8741010">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place 
+holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-852464536258">
+        <title>Thermal and statistical physics</title>
+        <para id="id5350676">The main chapters are copied from the courses of 
+Harvey Gould and <link url="mailto:jant@kzoo.edu">Jan Tobochnik</link>, Clark 
+University, Worcester, MA, USA. If not, the source is precised into 
+brackets.</para>
+        <para id="id8114978">
+          <link url="http://stp.clarku.edu/notes/">http://stp.clarku.edu/
+notes/</link>
+        </para>
+        <section id="id-332291597798">
+          <title>1.1 From Microscopic to Macroscopic Behavior: Statistical 
+Physics</title>
+          <section id="id-596085010913">
+            <title>Lesson 1</title>
+            <list list-type="bulleted" id="id9270617">
+              <item>Introduction</item>
+              <item>Some qualitative observations</item>
+              <item>Doing work</item>
+              <item>Quality of energy</item>
+            </list>
+          </section>
+          <section id="id-000291814929493">
+            <title>Lesson 2</title>
+            <list list-type="bulleted" id="id7902776">
+              <item>Some simple simulations</item>
+              <item>Work, heating, and the first law of thermodynamics</item>
+              <item>The fundamental need for statistical approach</item>
+              <item>Time and ensemble averages</item>
+            </list>
+          </section>
+          <section id="id-0948556773386">
+            <title>Lesson 3</title>
+            <list list-type="bulleted" id="id9035175">
+              <item>Models of matter</item>
+            </list>
+            <para id="id7214831">The ideal gas</para>
+            <para id="id7214834">Interparticle potentials</para>
+            <para id="id6121683">Lattice models</para>
+            <list list-type="bulleted" id="id9392331">
+              <item>Importance of simulations</item>
+              <item>Summary</item>
+            </list>
+            <para id="id9182758">Additional problems</para>
+            <para id="id8712836">Suggestions for further reading</para>
+          </section>
+        </section>
+        <section id="id-747489079024">
+          <title>1.2 Thermodynamic Concepts</title>
+          <section id="id-795846996205">
+            <title>Lesson 4</title>
+            <list list-type="bulleted" id="id9091506">
+              <item>Introduction</item>
+              <item>The system</item>
+              <item>Thermodynamic equilibrium</item>
+              <item>Temperature</item>
+              <item>Pressure equation of state</item>
+            </list>
+          </section>
+          <section id="id-653480556811">
+            <title>Lesson 5</title>
+            <list list-type="bulleted" id="id8581194">
+              <item>Some thermodynamic processes</item>
+              <item>Work</item>
+              <item>The first law of thermodynamics</item>
+              <item>Energy equation of state</item>
+            </list>
+          </section>
+          <section id="id-316423453655">
+            <title>Lesson 6</title>
+            <list list-type="bulleted" id="id8829253">
+              <item>Heat capacity and enthalpy</item>
+              <item>Adiabatic processes</item>
+              <item>The second law of thermodynamics</item>
+              <item>The thermodynamic temperature</item>
+            </list>
+          </section>
+          <section id="id-38176906051">
+            <title>Lesson 7</title>
+            <list list-type="bulleted" id="id8277925">
+              <item>The second law and heat engine</item>
+              <item>Entropy changes</item>
+              <item>Equivalence of thermodynamic and ideal gas scale 
+temperatures</item>
+              <item>The thermodynamic pressure</item>
+            </list>
+          </section>
+          <section id="id-128585602442">
+            <title>Lesson 8</title>
+            <list list-type="bulleted" id="id9165250">
+              <item>The fundamental thermodynamic relation</item>
+              <item>The entropy of an ideal gas</item>
+              <item>The third law of thermodynamics</item>
+              <item>Free energies</item>
+            </list>
+            <para id="id5957223">Additional problems</para>
+            <para id="id9185568">Suggestions for further reading</para>
+          </section>
+        </section>
+        <section id="id-494110873073">
+          <title>1.3 Statistical Mechanics</title>
+          <section id="id-852270589907">
+            <title>Lesson 9</title>
+            <list list-type="bulleted" id="id7764764">
+              <item>Introduction</item>
+              <item>A simple example of a thermal interaction</item>
+              <item>Counting microstates</item>
+            </list>
+            <para id="id8746742">Non-interacting spins</para>
+            <para id="id8523397">One-dimensional Ising model</para>
+            <para id="id7118563">A particle in a one-dimensional box</para>
+            <para id="id7118566">One-dimensional harmonic oscillator</para>
+            <para id="id8860868">A particle in a two-dimensional box</para>
+            <para id="id8754670">Two non-interacting identical particles and 
+the semi-classical limit</para>
+            <para id="id8115644"/>
+            <para id="id9041586">Lesson 10</para>
+            <list list-type="bulleted" id="id7844432">
+              <item>The number of states of N non-interacting particles: semi-
+classical limit</item>
+              <item>The microcanonical ensemble (fixed E, V, and N)</item>
+              <item>Systems in contact with a heat bath: the canonical 
+ensemble (fixed T, V, and N)</item>
+              <item>Connection between statistical mechanics and 
+thermodynamics</item>
+            </list>
+          </section>
+          <section id="id-620319285274">
+            <title>Lesson 11</title>
+            <list list-type="bulleted" id="id8144094">
+              <item>Simple applications of the canonical ensemble</item>
+              <item>Example of a simple thermometer</item>
+              <item>Simulations of the microcanonical ensemble</item>
+              <item>Simulations of the canonical ensemble</item>
+            </list>
+          </section>
+          <section id="id-775097581314">
+            <title>Lesson 12</title>
+            <list list-type="bulleted" id="id8961103">
+              <item>Grand canonical ensemble (fixed T, V, and )</item>
+              <item>Entropy and disorder</item>
+              <item>The volume of a hypersphere</item>
+              <item>Fluctuations in the canonical ensemble</item>
+              <item>Molecular dynamics </item>
+            </list>
+            <para id="id8364388">(Course from North Carolina State University, 
+Raleigh, NC, USA:</para>
+            <para id="id8362916"><link url="http://chsfpc5.chem.ncsu.edu/ ~franzen/CH795N/lecture/IV/IV.html">http://chsfpc5.chem.ncsu.edu/~franzen/
+CH795N/lecture/IV/IV.html</link>)</para>
+            <para id="id6370104">Additional problems</para>
+            <para id="id8642690">Suggestions for further reading</para>
+          </section>
+        </section>
+        <section id="id-0850119610944">
+          <title>1.4 Thermodynamic Relations and Processes</title>
+          <section id="id-561331782216">
+            <title>Lesson 13</title>
+            <para id="id7339019">1.4.1 Introduction</para>
+            <para id="id9134150">1.4.2 Maxwell relations</para>
+            <para id="id9307697">1.4.3 Applications of the Maxwell relations
+</para>
+            <para id="id9307701">Internal energy of an ideal gas</para>
+            <para id="id7840877">Relation between the specific heats</para>
+          </section>
+          <section id="id-377786126534">
+            <title>Lesson 14</title>
+            <para id="id8299875">1.4.4 Applications to irreversible 
+processes</para>
+            <para id="id8941560">The Joule or free expansion process</para>
+            <para id="id8941564">Joule-Thomson process</para>
+            <list list-type="bulleted" id="id9051350">
+              <item>Equilibrium between phases</item>
+            </list>
+            <para id="id5406157">Equilibrium conditions</para>
+            <para id="id8840684">Clausius-Clapeyron equation </para>
+            <para id="id9165218">Simple phase diagrams</para>
+            <para id="id9165221">Pressure dependence of the melting point
+</para>
+            <para id="id6412200">Pressure dependence of the boiling point
+</para>
+            <para id="id9136614">The vapor pressure curve</para>
+            <para id="id9136619">Lesson 15</para>
+            <list list-type="bulleted" id="id8353106">
+              <item>Lattice gas and Ising model</item>
+            </list>
+            <para id="id9449269">(Introduction to lattice gas from Victor 
+Batista, Chemistry department, Yale University, New Haven, NE, USA:</para>
+            <para id="id9095479"><link url="http://xbeams.chem.yale.edu/ ~batista/vaa/node38.html">http://xbeams.chem.yale.edu/~batista/vaa/
+node38.html</link>)</para>
+            <para id="id6094437">(Applet of ising model, from A. Peter young, 
+Physics department, University of California, San Diego, CA, USA:</para>
+            <para id="id9083946">http://bartok.ucsc.edu/peter/java/ising/keep/
+ising.html)</para>
+            <list list-type="bulleted" id="id8175018">
+              <item>Phase transitions</item>
+            </list>
+            <para id="id8740028">(Generalities from Wikipedia:</para>
+            <para id="id8442512">http://en.wikipedia.org/wiki/
+Phase_transition)</para>
+            <list list-type="bulleted" id="id8042290">
+              <item>A geometric phase transition: percolation</item>
+            </list>
+            <para id="id6267574"> (Lectures notes from the MIT NSE Virtual 
+Reading Room, Massachusetts Institute of Technology, Cambridge, MA, USA:
+</para>
+            <para id="id8945231"><link url="http://mightylib.mit.edu/ Course%20Materials/22.00/Spring%202002/Notes/lecture_3.pdf">http://
+mightylib.mit.edu/Course%20Materials/22.00/Spring%202002/Notes/lecture_3.pdf
+</link>)</para>
+          </section>
+          <section id="id-239642613957">
+            <title>Lesson 16 </title>
+            <list list-type="bulleted" id="id7408690">
+              <item>Brownian motion</item>
+            </list>
+            <para id="id8183512">(Introduction from the physics department of 
+the University of Queensland, Brisbane, Australia:</para>
+            <para id="id9590162">http://www.physics.uq.edu.au/people/mcintyre/
+php/laboratories/download_file.php?eid=38)</para>
+            <list list-type="bulleted" id="id8888282">
+              <item>Chaos and self-organization</item>
+            </list>
+            <para id="id7703150">(Introduction to chaos theory from the center 
+of complex quantum systems, University of Texas, Austin, TX, USA:</para>
+            <para id="id8823300">
+              <link url="http://order.ph.utexas.edu/">http://
+order.ph.utexas.edu/</link>
+            </para>
+            <para id="id9203046">Generalities from Wikipedia:</para>
+            <para id="id8843196">http://en.wikipedia.org/wiki/Self-
+organization)</para>
+          </section>
+          <section id="id-750643927034">
+            <title>Lesson 17</title>
+            <list list-type="bulleted" id="id8184444">
+              <item>Fractals</item>
+            </list>
+            <para id="id8173507">(Introduction from Michael Frame, Benoit 
+Mandelbrot, and Nial Neger, Yale University, New Haven, NE, USA:</para>
+            <para id="id8147736">http://classes.yale.edu/Fractals/)</para>
+            <list list-type="bulleted" id="id7243818">
+              <item>Sand Piles </item>
+            </list>
+            <para id="id9270893">(Introduction from Benoît Masson, Laboratoire 
+Informatique Signaux et systèmes of Sofia Antipolis, France, EU:</para>
+            <para id="id9112239"><link url="http://www.i3s.unice.fr/~bmasson/ eng/piles1.php">http://www.i3s.unice.fr/~bmasson/eng/piles1.php</link>)</para>
+            <list list-type="bulleted" id="id8278282">
+              <item>Spin glasses </item>
+            </list>
+            <para id="id8282000">(Short introduction &amp; references from 
+Daniel Stariolo, Instituto de Fisica, Universidade Federal do Rio Grande do 
+Sul, Porto Alegre, Brazil:</para>
+            <para id="id5730958"><link url="http://www.if.ufrgs.br/~stariolo/ spinglasses.html">http://www.if.ufrgs.br/~stariolo/spinglasses.html</link>)
+</para>
+            <para id="id7853099">Additional problems</para>
+            <para id="id7853103">Suggestions for further reading</para>
+          </section>
+        </section>
+      </section>
+      <section id="id-489247584345">
+        <title>Quantum physics made relatively simple</title>
+        <para id="id9050669">Hans Bethe, Cornell University, Ithaca, NY, 
+USA</para>
+        <para id="id9050674">Presentation of quantum theory and mechanics 
+through their histories.</para>
+        <para id="id8959597">
+          <link url="http://bethe.cornell.edu/">http://bethe.cornell.edu
+</link>
+        </para>
+        <para id="id8912323">3 courses of about 45-50 mn</para>
+        <para id="id5436580">Video and audio versions</para>
+        <para id="id7683602">Slides are presented in parallel to the video 
+documents</para>
+        <section id="id-472444665761">
+          <title>2.1 “Old Quantum Theory”: 1900 – 1915</title>
+          <para id="id9171869">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place 
+holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-987683919453">
+          <title>2.2 Quantum Mechanics: 1924 – 1928</title>
+          <para id="id9015099">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place 
+holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-456115239262">
+          <title>2.3 Interpretation works on the wave function, the Heisenberg 
+Uncertainty Principle, and the Pauli Exclusion Principle</title>
+          <para id="id8176915">Suggestions for further reading</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

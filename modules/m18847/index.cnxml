@@ -1,0 +1,1781 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Happy Maths 1: Numbers</title>
+  <metadata>
+  <md:content-id>m18847</md:content-id><md:title>Happy Maths 1: Numbers</md:title>
+  <md:abstract/>
+  <md:uuid>611c4402-d8f1-4880-80e6-1bba6b17c924</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="HappyMath-1.pdf" strength="3">Download the Storybook Version (English)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+<!-- TITLE PAGE -->
+
+<para id="titlepage"><media id="id25853374" alt="The cover page of the book, featuring a boy, a girl, two number characters, and a giant number 1.  The book title reads Happy Math 1: Numbers, written by Mala Kumar, Illustrated by Angie &amp; Upesh."><image src="../../media/001_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+  
+<!-- PUBLISHING INFO PAGE -->
+
+<para id="ReadIndialogo">
+ <media id="id25840195" alt="Logo reading: Read India, an Imprint of Pratham Books"><image src="../../media/read_india_logo.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+
+<para id="booktitle">
+Happy Math 1: Numbers, by Mala Kumar
+</para>
+
+<code id="printinginfo" display="block">
+©Pratham Books, 2007
+
+First Edition 2007
+
+Illustrations: Angie &amp; Upesh
+
+ISBN 978-81-8263-906-5
+
+Registered Office:
+PRATHAM BOOKS
+No.633/634, 4th “C” Main, 
+6th ‘B’ Cross, OMBR Layout, Banaswadi, 
+Bangalore- 560043. 
+&amp; 080 - 25429726 / 27 / 28
+
+Regional Offices:
+Mumbai &amp; 022 - 65162526
+New Delhi &amp; 011 - 65684113
+
+Typsetting and Layout by: The Other Design Studio
+
+Published by:
+Pratham Books
+<link url="http://www.prathambooks.org">http://www.prathambooks.org</link> 
+</code>
+
+<!-- PAGE 2 -->
+
+<para id="page2TopImage">
+ <media id="id25768831" alt="A girl and a boy read a book together."><image src="../../media/002_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<para id="page2text">
+Sankhya and Ganith have been learning a lot of things 
+in their mathematics class. 
+Join Sankhya and Ganith in their 
+happy discoveries about mathematics.
+Zzero and Eka are friends of Sankhya and Ganith.
+In this book Sankhya and Ganith discover the magic of numbers. They think of numbers as their friends. 
+They want to share some of the things 
+they have found out about numbers. 
+They learnt about numbers from stories that 
+they read in many books in their school library. 
+</para>
+
+<para id="page2BottomImage">
+ <media id="id3891863" alt="Two number characters wave at the reader."><image src="../../media/003_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<!-- PAGE 3 -->
+
+<section id="bigchallenge">
+ <title>The Big Challenge</title>
+ 
+<para id="page3StoryImg1">
+ <media id="id25907121" alt="A cartoon number one watches as a number zero bounces around."><image src="../../media/004_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<para id="page3StoryTxt1">
+<emphasis>Eka:</emphasis> Zzero ! Will you stop bouncing around like this, please?<newline/>
+<emphasis>Zzero:</emphasis> I’m happy. So I’m bouncing. I can take on so many shapes.
+</para>
+
+<para id="page3StoryImg2">
+ <media id="id3371884" alt="A cartoon number one looks down on a sad-looking number zero."><image src="../../media/005_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<para id="page3StoryTxt2">
+<emphasis>Eka:</emphasis> Stop boasting.  Do you know how many numbers you can make up?
+0, 10s, 100s, 1,000s and 10,000s. That’s a lot of numbers.  
+0, 10, 20, 30, ….90, 100, 101, 110, 200, 201, 210, ….
+</para>
+
+<para id="page3StoryImg3">
+ <media id="id18971928" alt="A cartoon number one looks down on a sad-looking number zero."><image src="../../media/006_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<para id="page3StoryTxt3">
+<emphasis>Zzero:</emphasis> Please stop!  I want to find out how many numbers exist
+between 0 and 10,000 with one or more zeroes in them. The first
+one is 0 and the last is 10,000 so that makes two…
+</para>
+
+<para id="page3StoryImg4">
+ <media id="id25897634" alt="A cartoon number one looks down on a sad-looking number zero."><image src="../../media/007_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<para id="page3StoryTxt4"><emphasis>Eka:</emphasis> Zzero, hats off to you for saying  you will take up such a
+BIG challenge. I think you should first try to find out how many
+numbers have one or more zeroes between 0 and 1,000.<newline/> <newline/> 
+<emphasis>Readers, can you help us please</emphasis>?
+</para>
+
+</section>
+<section id="grainsofrice">
+<title>Grains of Rice</title>
+<para id="fs-id47621486">
+Acharya Vinoba Bhave was a freedom fighter. He followed the
+teachings of Mahatma Gandhi and lived between the years 1895
+and 1982.
+</para>
+
+<para id="fs-id47622000">
+When he was a young boy in Maharashtra, his mother had made a
+vow of offering 10,000 grains of rice to God. She carefully counted
+a hundred grains each day and offered it in prayer, reciting God’s
+name each time she made an offering.
+</para>
+
+<para id="fs-id47622011">
+Vinoba’s elder brother had an idea. He said, “Mother, why do
+you do this everyday? After counting a hundred grains on one
+day, measure its weight. From the next day, you just have to
+weigh out an equal amount and offer it to God. This will save you
+time and effort.”
+</para>
+<para id="fs-id8637492">
+<media id="id258976354" alt="A cartoon of Vinoba's mother explaining why she counts grains of rice everyday as she brushes his hair.">
+<image src="../../media/008_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<para id="fs-id47619064">
+Vinoba said, “I don’t think that would be right. When you count
+100 grains of rice each day, you will repeat God’s name 100 times.
+But if you weigh out 100 grains, you would say God’s name only
+once!”
+</para>
+
+<exercise id="fs-id4896978">
+<problem id="fs-id4896980">
+<para id="fs-id24473933">Vinoba’s mother wanted to
+offer 10,000 grains of rice.
+If each grain weighs half a
+gram, how many grams
+will 100 grains weigh?<newline/>
+<media id="id258354" alt="A picture of a measuring balance with 100 grains of rice on the left scale and an unknown weight on the right scale.">
+<image src="../../media/009_maths_1.jpg" mime-type="image/jpeg"/></media></para>
+</problem>
+<solution id="fs-id4572315">
+<para id="fs-id23124987">50 grams. If one grain weighs half-a-gram, 2 grains will weigh 1gm.
+How many 2’s in 100? <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:divide/>
+      <m:cn>100</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:cn>50</m:cn>
+  </m:apply>
+</m:math>. 
+
+<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>50</m:cn>
+      <m:cn>1</m:cn>
+    </m:apply>
+    <m:cn>50</m:cn>
+  </m:apply>
+</m:math>.</para>
+</solution>
+</exercise>
+
+<exercise id="fs-id4626933">
+<problem id="fs-id4427148">
+<para id="fs-id24583943">If Vinoba’s mother
+had counted hundred
+grains on Day 1, and then
+followed her elder son’s advice,
+how many times would she have
+said God’s name till she made the complete offering?</para>
+</problem>
+<solution id="fs-id4036052">
+<para id="fs-id22887510">199 times. On Day 1, she would have uttered God’s name 100
+times while offering hundred grains. That would leave 9900
+grains (10 thousand minus 100 = 9900). 9900 divided by <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:cn>100</m:cn>
+    <m:cn>99</m:cn>
+  </m:apply>
+</m:math>.
+
+<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:plus/>
+      <m:cn>100</m:cn>
+      <m:cn>99</m:cn>
+    </m:apply>
+    <m:cn>199</m:cn>
+  </m:apply>
+</m:math>.</para>
+</solution>
+</exercise>
+
+<exercise id="fs-id4453254">
+<problem id="fs-id4564323">
+<para id="fs-id23626654">
+If Vinoba’s mother followed Vinoba’s suggestion, how many
+days would it take for her to finish the offering?
+</para>
+</problem>
+<solution id="fs-id4211564">
+<para id="fs-id7447928">100 days. 10, 000 divided by 100 = 100 days.</para>
+</solution>
+</exercise>
+<para id="fs-id6384043"><media id="id258sd354" alt="A Vinoba's mother on her knees praying as she makes her offering of rice.">
+<image src="../../media/010_maths_1.jpg" mime-type="image/jpeg"/></media></para>
+
+</section>
+
+<section id="bigismillion">
+ <title>How Big is a Million?</title>
+<para id="fs-id6652127">
+Sankhya’s mother was getting ready to go
+to school. She was a geography teacher.
+“Sankkima, eat your breakfast quickly!”
+she shouted.<newline/><newline/>
+<media id="id25sfsw8sd354" alt="A picture of Sankhya getting ready to go to teach school.">
+<image src="../../media/011_maths_1.jpg" mime-type="image/jpeg"/></media>
+</para>
+
+<para id="fs-id7570311">
+
+<media id="id25ggryd354" alt="A picture of Sankhya placing her tablets in er school bag.">
+<image src="../../media/012_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/><newline/>
+“Ki-ki, have you finished your
+homework?” asked
+Sankhya’s father.
+</para>
+
+<para id="fs-id6592525">
+
+<media id="idkj258sd354" alt="A picture of Sankhya putting on her schoolbag.">
+<image src="../../media/013_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/><newline/>
+“S V!” yelled Sankhya’s friend Manjula
+from the street. Sankhya’s father’s name
+is Venkat.
+</para>
+
+<para id="fs-id4544858">
+<media id="idkj258sd3" alt="A picture of Sankhya putting on her schoolbag.">
+<image src="../../media/014_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+“I have a million names!”
+said Sankhya with a grin, as she got ready to eat
+her breakfast.<newline/><newline/>
+Sankhya answers to all the different names
+she is called by.
+Numbers too are like Sankhya.
+They have different names in different
+countries.
+</para>
+
+<section id="fs-id4779642">
+<title>What is a million? It is a very big nuber.</title>
+<list id="millionexpand" list-type="bulleted"><item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>10</m:cn>
+      <m:cn>10</m:cn>
+    </m:apply>
+    <m:cn>100</m:cn>
+  </m:apply>
+</m:math>. Ten 10s make a hundred</item>
+<item>
+<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>10</m:cn>
+      <m:cn>100</m:cn>
+    </m:apply>
+    <m:cn>1000</m:cn>
+  </m:apply>
+</m:math>
+. Ten 100s make a thousand</item>
+<item>
+<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>100</m:cn>
+      <m:cn>100</m:cn>
+    </m:apply>
+    <m:cn>10000</m:cn>
+  </m:apply>
+</m:math>
+Hundred 100s make ten thousand</item>
+<item>
+<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>100</m:cn>
+      <m:cn>1000</m:cn>
+    </m:apply>
+    <m:cn>100000</m:cn>
+  </m:apply>
+</m:math>. Hundred 1,000s make a lakh</item>
+</list>
+<para id="fs-id3ww642629">
+But the word <term>lakh</term> is not used in European and American
+countries. When someone wins a <emphasis effect="italics">One-lakh</emphasis> lottery, people in
+these countries would say, “I won hundred thousand!”
+</para>
+</section>
+<para id="fs-id8043294">
+<media id="idkjds2s2358sd3" alt="A picture of a man from the East and another from the West saying 'one lakh' and 'one hundred thousand' respectively.">
+<image src="../../media/015_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+1,000 x 1,000 = 1,000,000. Thousand 1,000s make a <term>million</term>.
+In India, we say 10 lakhs instead of one million.
+<newline/>
+<newline/>
+<media id="idkj2s23583sd3" alt="A picture of a man from the East and another from the West saying angrily to each other 'ten lakhs' and 'one million' respectively.">
+<image src="../../media/016_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+100 x 100,000 = 10,000,000.
+One hundred lakhs is called one <term>crore</term> in India.
+<newline/>
+<newline/>
+<media id="idkjw2s235rf8sd3" alt="A picture of a man from the East and another from the West screaming at each other 'one crore' and 'ten million' respectively.">
+<image src="../../media/017_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+1,000 x 1,000,000 = 1,000,000,000.
+In America, 1,000 millions are called a <term>billion</term>.
+<newline/>
+<newline/>
+<media id="idkj2s2mm358sd3" alt="A picture of a man from the East and another from the West grabbing and yelling at each other 'one hundred crore' and 'one thousand million' respectively.">
+<image src="../../media/018_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+1,000 x 1,000 x 1,000,000 = 1,000,000,000,000.
+And a billion is a thousand thousand million in all countries except
+the United States of America.
+<newline/>
+<newline/>
+<media id="idkiaa2358sd3" alt="A picture of a man from the East and another from the West shaking hands, smiling in agreement, and both saying 'one billion'.">
+<image src="../../media/019_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+Surprisingly, scientists, whether in India or America mean
+1,000 million when they say billion.
+</para>
+</section>
+<section id="fs-id42009439">
+<title>Why Do We Need Big Numbers?</title>
+<para id="fs-id45286669">
+<media id="fs-id45286471" alt="A picture of a woman asking a young boy how far his school is.">
+<image src="../../media/020_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+When someone asks you how
+far your school is from your
+house you may say, “Very far.”
+</para>
+
+<para id="fs-id22377229">
+<media id="fs-id23441286" alt="A picture of a man asking a young boy how far his school is.">
+<image src="../../media/021_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+To a stranger asking for directions
+to the school, you would probably
+say, “Five kilometres, Sir.”
+</para>
+
+<para id="fs-id17990156">
+<media id="fs-id23439572" alt="A picture of a smiling sun looking down on the earth.">
+<image src="../../media/022_maths_1.jpg" mime-type="image/jpeg"/></media>
+<newline/>
+The Sun is 300,000 times heavier
+than the Earth. To write the mass
+of the Sun in tonnes you need to
+write 2 followed by 27 zeroes.
+</para>
+<para id="fs-id17759725">
+<newline/><newline/>
+<emphasis>Numbers help us to understand the world
+around us better.</emphasis>
+</para>
+
+<para id="fs-id23091975">
+<media id="fs-id23226717" alt="A picture of starburst.">
+  <image src="../../media/024_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<emphasis> Scientists say the universe was formed
+because of a ‘Big Bang’.</emphasis><newline/><newline/>
+
+15 billion years ago there was a small
+super hot, super dense, ball of
+fire.
+<newline/><newline/>
+
+The ball was less than 1cm
+wide. Suddenly, the ball exploded.
+
+</para>
+
+<para id="fs-id18391342">
+
+<media id="fs-id10708107" alt="A picture of starburst.">
+  <image src="../../media/025_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+
+<newline/><newline/>
+The ball was less than 1cm
+wide. Suddenly, the ball exploded.
+<newline/><newline/>
+In less then a millionth
+of a second, it grew to a
+huge ball, 16 billion km
+across.
+</para>
+<para id="fs-id18388550">
+<media id="fs-id22302934" alt="A picture of galaxy.">
+  <image src="../../media/027_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/><newline/>
+In the next million years, the exploded pieces
+became colder and formed galaxies.
+<newline/><newline/>
+<media id="fs-id22800731" alt="A picture of the earth and the sun.">
+  <image src="../../media/028_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+The Earth, Moon and Sun belong to a
+galaxy called the Milky Way.
+<newline/><newline/>
+</para>
+
+<para id="fs-id22101728">
+
+
+<media id="fs-id21846233" alt="A picture of the stars in the galaxy.">
+  <image src="../../media/029_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+They were born less than 5 billion years ago.
+<newline/><newline/>
+
+There are 200
+billion stars in our
+galaxy.
+</para>
+
+<para id="fs-id20314755">
+<media id="fs-id20678614" alt="A picture of the solar system.">
+  <image src="../../media/030_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+
+<newline/>Our Sun is one of them. Earth is one
+of the nine planets moving
+around our Sun
+</para>
+<para id="fs-id17877585">
+<media id="fs-id12647217" alt="A picture of children holding hands atop planet Earth.">
+  <image src="../../media/031_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>And the Earth has
+6,525,170,264 people.
+</para>
+<para id="fs-id4110771">
+<media id="fs-id21934072" alt="A picture of an Indian child holding hands with two others atop planet Earth.">
+  <image src="../../media/032_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>You are one of 1,095,351,995 people
+living in India!
+</para>
+</section>
+
+<section id="fs-id18210360">
+<title>Everyone in thier Place</title>
+<para id="fs-id18210362">
+<media id="fs-id7038202" alt="A picture of the Principal of Aryanagar Vidayamandir.">
+  <image src="../../media/033_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+The Principal of Aryanagar Vidyamandir is
+very strict. He insists that students stand
+in their specified places during morning
+assembly.
+</para>
+
+<para id="fs-id7051111">
+<media id="fs-id16355619" alt="A picture of Ramjit smiling amongst fellow students.">
+  <image src="../../media/034_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Ranjit, a class 4 student, always stood in
+the fourth row from
+the right side of the
+hall.
+</para>
+
+<para id="fs-id17648530">
+One day, he got into the sixth row, where
+all the Class 6 students stood. He felt very
+important. He also felt very scared that the
+principal would seek him out and punish
+him.
+</para>
+
+<para id="fs-id15681360">
+<media id="fs-id18155901" alt="A picture of the principal and Ranjit talking.">
+  <image src="../../media/035_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+The principal did find out and called
+Ranjit to his room. “Young fellow, so you
+don’t want to stand in your place, is it?
+</para>
+
+<para id="fs-id5948702">
+<media id="fs-id13347440" alt="A picture of Ranjit looking worried.">
+  <image src="../../media/036_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+If you want to stand in the Class 6 row,
+you have to increase your value by
+studying well and
+learning well to
+deserve the value
+of being in the
+Class 6 row. Understand?
+Now, run to class!”
+</para>
+
+<para id="fs-id14261165">
+<media id="fs-id14261167" alt="A picture of Ranjit holding two fingers up with the number 2 under him.">
+  <image src="../../media/037_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Ranjit scratched his head,
+and walked back to his
+class. What was his value,
+he wondered.
+</para>
+
+<para id="fs-id18293295">
+<media id="fs-id18293297" alt="A picture of Ranjut looking at the number 20 below him.">
+  <image src="../../media/038_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+He had learnt place value in
+arithmetic recently and this
+is what he understood about value. The digit
+2 means just 2.
+<newline/>
+When you write 20, the 2 indicates there are 2 tens.
+</para>
+
+
+<para id="fs-id10821522">
+<media id="fs-id10821524" alt="A picture of Ranjit smiling and looking at the number 2032 written under him.">
+  <image src="../../media/039_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Similarly when you write
+2032, the 2 on your right
+denotes just 2 but the 2 on
+your left means there are 2
+thousands.
+<newline/>
+So, depending upon the
+‘place’ where a digit sits, it
+gets different values.
+</para>
+
+<para id="fs-id5810231"><media id="fs-id5810233" alt="A picture of snapping his fingers as he realizes the significance of place value.">
+  <image src="../../media/040_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Let’s take the number 167,234. Each digit here has a different
+place value. 1 is in the lakh’s place. In the number 167,234, the
+place value of 1 is one lakh. 6 is in the ten-thousand’s place. The
+place value of 6 in 167,234 is 60,000. A number is the sum of the
+place values of its digits.
+
+<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:plus/>
+      <m:cn>100000</m:cn>
+      <m:cn>60000</m:cn>
+      <m:cn>7000</m:cn>
+      <m:cn>200</m:cn>
+      <m:cn>30</m:cn>
+      <m:cn>4</m:cn>
+    </m:apply>
+    <m:cn>167234</m:cn>
+  </m:apply>
+</m:math>.
+Ranjit has understood place value quite well now.
+</para>
+
+<exercise id="fs-id8247699">
+<problem id="fs-id8571581">
+<para id="fs-id8186628">Ranjit’s uncle has a car that has the registration number
+1945. What is the place value of 9 in it?
+</para>
+</problem>
+<solution id="fs-id8556684">
+<para id="fs-id11774196">
+900. Hundreds place. 1945 has nine hundreds in addition to
+1 thousand, 4 tens and 5 units.
+</para>
+</solution>
+</exercise>
+
+<exercise id="fs-id8577612">
+<problem id="fs-id7477656">
+<para id="fs-id11774200">
+Add 496, 3,051 and 27. Find the digit in the hundred’s place
+of the sum that you get.
+</para>
+</problem>
+<solution id="fs-id8575665">
+<para id="fs-id15835146">The sum or total of the three numbers is 3,574.
+</para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-id8575978">
+<title>Finger Fun</title>
+
+<para id="fs-id15835149">
+<media id="fs-id8576993" alt="A picture of a cartoon number one asking the number zero a question about multiplication.">
+  <image src="../../media/041_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Zzero, do you know
+how to multiply with your
+fingers?
+</para>
+<para id="fs-id8910648">
+<media id="fs-id8575482" alt="A picture of the number zero bouncing and smiling as it waves a piece of paper and a pencil.">
+  <image src="../../media/042_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Of course. I pick up a pencil and
+paper with my fingers, write the
+numbers and then write the
+answers.
+</para>
+<para id="fs-id3531938">
+<media id="fs-id8574927" alt="A picture of a cartoon number one scalding the number zero for not understanding his question.">
+  <image src="../../media/043_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+No, silly,
+I meant with only your fingers.
+See, here’s how you multiply by 9 with
+your ten fingers.
+</para>
+
+<example id="fs-id11622628"><para id="fs-id5232442"><emphasis>Try this:</emphasis></para>
+
+<para id="fs-id11203392">
+<media id="fs-id12142248" alt="A picture of a left and right hand palms up.">
+  <image src="../../media/044_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Stretch out your fingers.
+</para>
+
+<para id="fs-id11854725"><media id="fs-id12133732" alt="A picture of A picture of two hands, palms up with the thumb curled inwards on the left hand.">
+  <image src="../../media/045_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+To calculate 
+<m:math>
+  <m:apply>
+    <m:times/>
+    <m:cn>9</m:cn>
+    <m:cn>1</m:cn>
+  </m:apply>
+</m:math>
+, bend finger
+number 1. Count the number
+of fingers on either side of the
+bent finger. 0 and 9. 9 is your
+answer.
+</para>
+
+<para id="fs-id10632067">
+<media id="fs-id10632069" alt="A picture of two hands palms up with all fingers extended with the left index finger bent inward.">
+  <image src="../../media/046_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<m:math>
+  <m:apply>
+    <m:times/>
+    <m:cn>9</m:cn>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math>. Bend finger 2.
+One finger on the
+left, 8 on the right of
+bent finger. Answer
+is 18
+</para>
+
+<para id="fs-id12151707">
+<media id="fs-id12151709" alt="A picture of two hands palms up with all fingers extended with the left middle finger bent inward.">
+  <image src="../../media/047_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<m:math>
+  <m:apply>
+    <m:times/>
+    <m:cn>9</m:cn>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math>. Bend finger 3.
+Answer=27
+</para>
+
+<para id="fs-id9312223">
+<media id="fs-id9312533" alt="A picture of two hands palms up with all fingers extended with the left ring finger bent inward.">
+  <image src="../../media/048_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<m:math>
+  <m:apply>
+    <m:times/>
+    <m:cn>9</m:cn>
+    <m:cn>4</m:cn>
+  </m:apply>
+</m:math> Bend finger 4.
+Answer=36
+</para>
+
+<para id="fs-id12314126">
+<media id="fs-id11717020" alt="A picture of two hands palms up with all fingers extended with the left pinky finger bent inward.">
+  <image src="../../media/049_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<m:math>
+  <m:apply>
+    <m:times/>
+    <m:cn>9</m:cn>
+    <m:cn>5</m:cn>
+  </m:apply>
+</m:math> Bend finger 5.
+Answer=45
+</para>
+
+</example>
+</section>
+
+<section id="fs-id23541834">
+<title>What is Multiplication?</title>
+<para id="fs-id23444161">
+<media id="fs-id22612531" alt="A picture of a girl and her grandmother talking to a young girl about mangoes..">
+  <image src="../../media/050_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Multiplication is a quick way
+of adding.<newline/><newline/>
+Suppose you pluck 25
+mangoes from one tree
+in an orchard, and your
+grandmother has asked
+you to get 250 mangoes to
+make spicy mango pickles,
+you do not have to keep count
+after plucking every mango.
+</para>
+
+
+<para id="fs-id23529326"><media id="fs-id17227773" alt="A picture of a bowl of mangoes">
+  <image src="../../media/051_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Just pluck 25 mangoes from each tree. Leave
+them in separate baskets at the foot of the tree.
+<newline/><newline/>
+One basket contains 25 mangoes.
+2 Baskets will contain <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:plus/>
+      <m:cn>25</m:cn>
+      <m:cn>25</m:cn>
+    </m:apply>
+    <m:cn>50</m:cn>
+  </m:apply>
+</m:math> mangoes.
+You can just multiply 25 by 2 instead. <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>25</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:cn>50</m:cn>
+  </m:apply>
+</m:math>.
+3 baskets x 25 mangoes in each = <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>3</m:cn>
+      <m:cn>25</m:cn>
+    </m:apply>
+    <m:cn>75</m:cn>
+  </m:apply>
+</m:math>.
+10 baskets x 25 mangoes in each = <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>10</m:cn>
+      <m:cn>25</m:cn>
+    </m:apply>
+    <m:cn>250</m:cn>
+  </m:apply>
+</m:math>.
+</para>
+
+<para id="fs-id23559869">
+<media id="fs-id22843023" alt="A picture of a Mango tree.">
+  <image src="../../media/053_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+When the numbers to be multiplied are
+small, it is easy to add repeatedly. But
+when numbers are big, it is easier to
+multiply.
+</para>
+
+<para id="fs-id23638074">
+<media id="fs-id21262796" alt="A picture of ">
+  <image src="../../media/052_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+
+</para>
+
+<example id="fs-id22636045">
+<para id="fs-id23443184">
+<emphasis>Try this:</emphasis>
+</para>
+
+<para id="fs-id23447092">
+Let’s try 24 multiplied by 6. Let’s say you have 20 red marbles and 4
+green marbles. Suppose you and five of your friends (that’s 6 of you)
+want to have the same number and kind of marbles each. When
+you want 6 times the number of marbles, you will have 6 times the
+number of red marbles in addition to 6 times the number of green
+marbles, right?
+</para>
+
+<equation id="fs-id23561531"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>6</m:cn>
+      <m:cn>20</m:cn>
+    </m:apply>
+    <m:cn>120</m:cn>
+  </m:apply>
+</m:math>
+</equation>
+
+<equation id="fs-id23345302"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>6</m:cn>
+      <m:cn>4</m:cn>
+    </m:apply>
+    <m:cn>24</m:cn>
+  </m:apply>
+</m:math></equation>
+
+<equation id="fs-id23396843"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>120</m:cn>
+      <m:cn>24</m:cn>
+    </m:apply>
+    <m:cn>144</m:cn>
+  </m:apply>
+</m:math>
+</equation>
+
+<para id="eip-354">144 marbles. Easy!</para><para id="fs-id17226551">Now try this. Multiply 34768 by 987 by the same method. You would
+have to write <m:math>
+  <m:apply>
+    <m:plus/>
+    <m:cn>30000</m:cn>
+    <m:cn>4000</m:cn>
+    <m:cn>700</m:cn>
+    <m:cn>60</m:cn>
+    <m:cn>8</m:cn>
+  </m:apply>
+</m:math>. Then multiply each of
+these by 7, 80 and 900. And add up all the answers to get your final
+answer. Doing this horizontally, then writing it down vertically and then
+adding the numbers is a very tiring process. To make this work simple,
+we follow a pattern of writing while multiplying big numbers.
+<m:math>
+  <m:apply>
+    <m:times/>
+    <m:cn>34768</m:cn>
+    <m:cn>987</m:cn>
+  </m:apply>
+</m:math>.
+</para><table id="eip-23" summary="Tableshowing the pattern for multiplying big nunbers.">
+<tgroup cols="11">
+<colspec colnum="1" colname="header_c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<colspec colnum="9" colname="c9"/>
+<colspec colnum="10" colname="c10"/>
+<colspec colnum="11" colname="c12"/>
+
+<thead>
+  <row>
+    <entry/>
+    <entry/>
+    <entry>3</entry>
+    <entry>4</entry>
+    <entry>7</entry>
+    <entry>6</entry>
+    <entry>8</entry>
+    <entry>x</entry>
+    <entry>9</entry>
+    <entry>8</entry>
+    <entry>7</entry>
+  </row>
+</thead>
+<tbody>
+  <row>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry>A.</entry>
+    <entry/>
+      <entry/>
+    <entry/>
+    <entry/>
+    <entry>2</entry>
+    <entry>4</entry>
+    <entry>3</entry>
+    <entry>3</entry>
+    <entry>7</entry>
+    <entry>6</entry>
+  </row>
+  <row>
+    <entry>B.</entry>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry>2</entry>
+    <entry>7</entry>
+    <entry>8</entry>
+    <entry>1</entry>
+    <entry>4</entry>
+    <entry>4</entry>
+    <entry>x</entry>
+  </row>
+  <row>
+    <entry>C.</entry>
+    <entry/>
+    <entry/>
+    <entry>3</entry>
+    <entry>1</entry>
+    <entry>2</entry>
+    <entry>9</entry>
+    <entry>1</entry>
+    <entry>2</entry>
+    <entry>x</entry>
+    <entry>x</entry>
+  </row>
+  <row>
+    <entry>D.</entry>
+    <entry/>
+    <entry/>
+    <entry>3</entry>
+    <entry>4</entry>
+    <entry>3</entry>
+    <entry>1</entry>
+    <entry>6</entry>
+    <entry>0</entry>
+    <entry>1</entry>
+    <entry>6</entry>
+  </row>
+</tbody>
+</tgroup>
+</table>
+<list id="fs-id3841696" list-type="labeled-item"><item> <label>A.</label>Multiply 34768 by 7.</item>
+<item> <label>B.</label>Put an <emphasis>X</emphasis> or a <emphasis>0</emphasis> in the units place. Then multiply 34768 by 8.</item>
+<item> <label>C.</label>Put <emphasis>X</emphasis> marks in the unit’s and ten’s place. Multiply 34768 by 9.</item>
+<item> <label>D.</label>Add the answers you got in steps A, B and C.</item>
+</list>
+
+<para id="fs-id26563650">
+It becomes easy to add the numbers vertically, starting from
+the right, if you write the digits neatly one below the other!
+</para>
+
+</example>
+
+
+</section>
+
+<section id="fs-id22733053">
+<title>Odd Fishing</title>
+<para id="fs-id26086728">
+<media id="fs-id24617409" alt="A picture of ">
+  <image src="../../media/054_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+An old man lived by the river
+Kaveri.
+</para>
+
+<para id="fs-id21886534">
+He used to catch fish for a
+living. But he did not eat fish
+himself.
+</para>
+
+<para id="fs-id22943844">
+Everyday he caught fish and
+sold them in the evening at
+the market.
+
+<newline/><newline/>
+He was not a greedy man.
+</para>
+
+<para id="fs-id26776716">
+<media id="fs-id23782295" alt="A picture of ">
+  <image src="../../media/055_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+One day his grandson saw him throwing
+back a fish into the river.
+“Grandpa, why did you do that?”
+he asked.
+</para>
+
+<para id="fs-id24433392">
+“Little one, I need to
+earn, so I catch fish.
+But I don’t need
+too much money.
+So I put back some
+fish into the river.”
+</para>
+
+<para id="fs-id5637717">
+“And how do you
+decide which fish
+to put into the
+basket and which fish
+to throw back into the river?”
+</para>
+
+<para id="fs-id4207606">
+<media id="fs-id24839933" alt="A picture of ">
+  <image src="../../media/056_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+“Each day, I make up a
+rule for myself. Yesterday,
+I threw back the first fish
+I caught, kept the second,
+threw back the third, kept
+the fourth…”
+</para>
+
+<para id="fs-id24213413">
+“I know, you threw
+back Fish 1, Fish 3, Fish
+5………..You threw back
+the Odd-numbered fish!”
+</para>
+
+
+<para id="fs-id4209281">
+“That’s right. Today, I kept the first fish, threw back the second,
+kept the third, threw back the fourth…”
+</para>
+
+<para id="fs-id3684336">
+“All the even-numbered ones went back into the river. Poor
+odd-numbered ones!”
+</para>
+
+<para id="fs-id5752831">
+“Tomorrow, I’m going to need a little more money. So I’ll have
+a new system. Fish numbers 2, 3, 5, 7, 11, 13, 17, 19, 23, and so
+on will go back into the river. The rest will get into my basket.
+</para>
+
+<para id="fs-id22697591">
+“Grandpa, how many fishes do you sell each day?”<newline/>
+“About 50.”
+</para>
+
+
+<para id="fs-id8772953">
+1 is an odd number. 2 is an even number.
+</para>
+
+
+<para id="fs-id21391079">
+Numbers that cannot be divided by 2
+are called odd numbers.
+</para>
+
+
+<para id="fs-id23807236">
+Numbers that can be divided by 2
+are called even numbers.
+</para>
+
+<para id="fs-id24327810">
+<media id="fs-id26332440" alt="A picture of ">
+  <image src="../../media/057_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+</para>
+
+<exercise id="fs-id25929712">
+<problem id="fs-id25736514">
+<para id="fs-id17094804">
+According to the story, how many fish went back into the
+river yesterday?
+</para>
+</problem>
+<solution id="fs-id25181955">
+<para id="fs-id4442318">
+50. To sell 50 fishes, Grandpa would have to catch 100 fishes on
+Day 1. The odd ones went back into the river.
+</para>
+</solution>
+</exercise>
+
+<exercise id="fs-id22828988">
+<problem id="fs-id23875917">
+<para id="fs-id22737421">
+Did he throw back more or less number of fish today? How
+many fish went into the basket today?
+</para>
+</problem>
+<solution id="fs-id4923580">
+<para id="fs-id22796506">
+Less. He threw back 49 fishes. 50 fishes went into the basket.
+</para>
+</solution>
+</exercise>
+
+<exercise id="fs-id25191390">
+<problem id="fs-id23374519">
+<para id="fs-id4724547">
+They are prime numbers. 2 can be divided by 1 and 2. 3 can be
+divided by 1 and 3. Four can be divided by 1, 2, and 4. 4 is not a
+Prime number.
+</para>
+</problem>
+<solution id="fs-id22723735">
+<para id="fs-id16669013">
+Tomorrow, Grandpa has to really think hard before throwing
+back the fish. There is something special about the
+numbers 2, 3, 5, 7, …. Can you guess what?
+</para>
+</solution>
+</exercise>
+
+<exercise id="fs-id22961549">
+<problem id="fs-id21785059">
+<para id="fs-id22919708">
+How many fishes did Grandpa catch today?
+</para>
+</problem>
+<solution id="fs-id17025730">
+<para id="fs-id3743586">
+99 fishes. When he caught the 99th fish and put it in his basket, 4. , he
+had 50 fishes in the basket. So he did not have to catch the 100th
+fish to throw back!
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="fs-id24614159">
+<problem id="fs-id20896745">
+<para id="fs-id24469332">
+A prime number is a number that can be divided exactly
+by two numbers,1 and by itself.
+1 can be divided ONLY by 1. So 1 is not a prime number.
+13 can be divided by 1. It can be divided by 13. So it is a
+prime number. 15 can be divided by 1, 3, 5, and 15. So it is
+not a prime number. Can you count the number of prime
+numbers between 1 and 50?
+<newline/><newline/>
+<media id="fs-id22929391" alt="A picture of ">
+  <image src="../../media/058_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+</para>
+</problem>
+<solution id="fs-id24848094">
+<para id="fs-id25952868">
+15 prime numbers. In a grid, write numbers 1 to 50. After 3, cut
+out all the even numbers (They can all be divided by 1,2 and themselves.
+So they are not prime). Cut out all the numbers that can
+be divided by 3. (6, 12 etc. They are all divisible by 1, 3 and themselves.
+So they are not prime.) Cut out all the multiples of 5. (Why?)
+Then finally, cut out all the numbers that can be divided by 10. The
+remaining numbers are prime numbers.
+</para>
+</solution>
+</exercise>
+
+
+</section>
+
+<section id="fs-id26853932">
+<title>Bits and Pieces</title>
+
+<para id="fs-id22084858">
+<media id="fs-id25202042" alt="A picture of ">
+  <image src="../../media/059_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Eka, have you seen the
+Hindi film ‘Sholay’?
+</para>
+
+<para id="fs-id27730999">
+<media id="fs-id26864308" alt="A picture of ">
+  <image src="../../media/060_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+There is a scene in the
+movie that has a jailer
+telling his officers,
+</para>
+
+<para id="fs-id26849226">
+<media id="fs-id26849228" alt="A picture of ">
+  <image src="../../media/059_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+“Half of you go this side. Half
+of you go that side. Rest of
+you, follow me!”
+</para>
+
+<para id="fs-id26849911">
+<media id="fs-id26849913" alt="A picture of ">
+  <image src="../../media/062_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<emphasis>Zzero:</emphasis>Tell me Eka, how many
+people followed the jailer? <newline/>
+<emphasis>Eka:</emphasis>Zzero, you must
+be joking!
+</para>
+
+
+
+<para id="fs-id26835041">
+<media id="fs-id26835044" alt="A picture of ">
+  <image src="../../media/063_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<emphasis>Zzero:</emphasis>No one followed the
+jailer. One half plus
+another half of the
+same thing makes a full!
+</para>
+
+<para id="fs-id3942305">
+<media id="fs-id3942307" alt="A picture of ">
+  <image src="../../media/064_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Sankhya and Ganith had to share a
+huge aloo Paratha for lunch. They
+both liked aloo Paratha very much.
+“Let’s cut it into two. Each of us
+can have one part,” said Ganith.
+“You cut it, Sankhya.”
+</para>
+
+<para id="fs-id3881666">
+<media id="fs-id3881668" alt="A picture of ">
+  <image src="../../media/065_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Sankhya was going
+to fold the paratha
+into two, when her
+friends Faisal and
+John walked in. “We
+want a piece too!”
+they said.
+</para>
+
+<para id="fs-id3871065"><media id="fs-id3871067" alt="A picture of ">
+  <image src="../../media/066_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Sankhya and Ganith would have had <m:math>
+  <m:apply>
+    <m:divide/>
+    <m:cn>1</m:cn>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math> a
+paratha each. Now they would have to
+have <m:math>
+  <m:apply>
+    <m:divide/>
+    <m:cn>1</m:cn>
+    <m:cn>4</m:cn>
+  </m:apply>
+</m:math> of a paratha.
+</para>
+
+<para id="fs-id3896449">
+So they had to divide one paratha into four
+equal pieces. After Sankhya had cut the
+paratha neatly into four pieces, John saw
+a sugarcane piece in the kitchen. “I’ll eat
+the sugarcane. I don’t want the paratha,”
+he decided.
+</para>
+
+
+<para id="fs-id3896452">
+<media id="fs-id3847796" alt="A picture of ">
+  <image src="../../media/067_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Sankhya, Ganith and
+Faisal had a quarter of the
+paratha each. And they
+cut up John’s quarter into
+three. What do you think
+they did with that!
+</para>
+
+<example id="fs-id10705972">
+<title>Fractions are nothing but parts of a whole.</title>
+<para id="fs-id20183894">
+<emphasis>Try this:</emphasis>
+</para>
+
+<para id="fs-id3584991">
+<media id="fs-id3584993" alt="A picture of ">
+  <image src="../../media/068_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Take a sheet of
+notepaper, fold it in hald, and colour the top flap. You have colured half of the sheet.
+</para>
+
+<para id="fs-id4234677"><media id="fs-id4234679" alt="A picture of ">
+  <image src="../../media/069_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+It means you have coloured 1 part of two ewual parts that make up a whole. (<m:math>
+  <m:apply>
+    <m:divide/>
+    <m:cn>1</m:cn>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math>)
+Now fold over in half again and colour the top in a different colour. You have colored 1 part of 4.</para>
+
+<para id="fs-id4231713">
+<media id="fs-id4231715" alt="A picture of ">
+  <image src="../../media/070_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Fold the sheet over another
+time. Colour the top using another
+colour pencil. Open the
+sheet out fully and see what
+fraction you have coloured.
+</para>
+</example>
+</section>
+
+<section id="fs-id27739351">
+<title>Shapely Numbers</title>
+
+<para id="fs-id23602726">
+<media id="fs-id27188766" alt="A picture of ">
+  <image src="../../media/071_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Sankhya watched as Amma made a beautiful rangoli. First she
+made many dots. Then she joined the dots to make designs.
+</para>
+
+<para id="fs-id27912785">
+“Amma. How do you know how many dots to make?”
+</para>
+
+
+<para id="fs-id24031432">
+Amma mumbled something, because she really did not have
+an answer.
+</para>
+
+<para id="fs-id27015631">
+<media id="fs-id22306134" alt="A picture of ">
+  <image src="../../media/072_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+But Zzero has discovered a way to
+make shapes out of numbers.
+</para>
+
+
+<para id="fs-id26945098">
+Take any number and its next number.
+(Two numbers that have a difference
+of 1 are called consecutive numbers.)
+</para>
+
+
+<para id="fs-id21514636">
+Multiply them and divide the answer by 2.
+</para>
+
+<para id="fs-id24703775">
+You can make a triangular number grid with this new answer.
+</para>
+
+
+
+<para id="eip-948"><m:math>
+  <m:apply>
+    <m:times/>
+    <m:cn>6</m:cn>
+    <m:cn>7</m:cn>
+  </m:apply>
+</m:math> divided by 2 = 21.
+</para><para id="fs-id27085951">
+You can form a triangle with 21 dots, starting with 6 dots at the
+bottom, reducing one dot as you go higher, till you have just one
+dot on top.
+</para>
+
+<para id="fs-id24659907"><media id="fs-id20354405" alt="A picture of ">
+  <image src="../../media/000_maths_01.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Or you can start with one dot on top, and keep increasing one
+dot in the next line as you go down.
+</para>
+
+<exercise id="fs-id27894388">
+<problem id="fs-id27392340">
+<para id="fs-id21698460">Can you tell how many dots you need to make an
+8 - decker triangle with dots?
+</para>
+</problem>
+<solution id="fs-id27880959">
+<para id="fs-id25706858">36.<newline/>
+<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:divide/>
+      <m:apply>
+        <m:times/>
+        <m:cn>8</m:cn>
+        <m:cn>9</m:cn>
+      </m:apply>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:cn>36</m:cn>
+  </m:apply>
+</m:math>.
+</para>
+</solution>
+</exercise>
+
+<example id="fs-id3485108">
+<para id="fs-id4024228">
+<emphasis>Try this:</emphasis>
+</para>
+
+<para id="fs-id26999019">
+Make grids using dots. Then draw funny figures.
+</para>
+
+<para id="fs-id7971297">
+    <media id="fs-id23345171" display="block" alt="Funny figures in a grid of dots.">
+    <image mime-type="image/jpeg" src="../../media/073_maths_1.jpg"/>
+    </media>
+</para>
+</example>
+</section>
+
+<section id="fs-id23799424">
+<title>Let's Fly</title>
+
+<para id="fs-id7017338">
+<media id="fs-id6914419" alt="A picture of ">
+  <image src="../../media/074_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<emphasis>Zzero:</emphasis> Eka, let’s fly!<newline/>
+<emphasis>Eka:</emphasis> Zzero, we are not birds.
+And we are not pilots. So
+how can we fly?
+</para>
+
+<para id="fs-id6487472">
+<media id="fs-id8004585" alt="A picture of ">
+  <image src="../../media/075_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+<emphasis>Zzero:</emphasis> Let’s make paper planes and
+fly them. Listen friends, let’s
+play detectives!
+</para>
+
+<para id="fs-id7489228">
+<media id="fs-id7489230" alt="A picture of ">
+  <image src="../../media/076_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Write a coded message using numbers on a
+piece of paper. Make this into a paper plane.
+Send it zooming in the class.
+</para>
+
+<para id="fs-id7611410">
+The person on whom the plane lands has to
+decode the message.
+The numbers must represent alphabets.
+</para>
+
+
+<para id="fs-id7801396">
+<media id="fs-id7801398" alt="A picture of ">
+  <image src="../../media/077_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+The numbers that make up one word can
+be put together with hyphens.
+</para>
+
+<para id="fs-id7609647">
+<media id="fs-id7989158" alt="A picture of ">
+  <image src="../../media/078_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+Some students
+scratched their
+heads.<newline/>
+Some scratched busily on papers with
+their pencils. Soon there were different
+kinds of planes flying in class.
+</para>
+
+<para id="fs-id7605901">
+Can you decode some of these messages that ‘landed’?
+</para>
+
+<exercise id="fs-id7563881">
+<problem id="fs-id6846842">
+<para id="fs-id7018313">
+13-29 / 15-29-25-9! (Notice that all the numbers are ODD)
+</para>
+</problem>
+<solution id="fs-id7576854">
+<para id="fs-id7576856">
+GO HOME! (Starting with 1 for A, 3 for B…….51 for Z)
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="fs-id6995221">
+<problem id="fs-id6995223">
+<para id="fs-id6995225">
+49-29-41 / 1-35-9 /13-29-29-7.
+</para>
+</problem>
+<solution id="fs-id7001353">
+<para id="fs-id7577082">
+YOU ARE GOOD.
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="fs-id7228642">
+<problem id="fs-id7228645">
+<para id="fs-id7228647">
+51-51-9-35-29 /17-37 / 1 /15-9-35-29.
+</para>
+</problem>
+<solution id="fs-id7980923">
+<para id="fs-id7607142">
+ZZERO IS A HERO
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="fs-id6988576">
+<problem id="fs-id6988578">
+<para id="fs-id6988580">
+28-42-26-4-10-36-38 / 2-36-10 / 12-42-28.
+</para>
+</problem>
+<solution id="fs-id7770562">
+<para id="fs-id7839689">
+NUMBERS ARE FUN. (2 for A, 4 for B…..52 for Z)
+</para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-id7762908">
+<title>Conclusion</title>
+<para id="fs-id7770221">
+Sankhya and Ganith have made friends with numbers.
+Sometimes the ‘friends’ behave oddly!
+But most of the time, they are good!
+Look at the numbers around you.
+You may find something interesting about them.
+<newline/><newline/>
+<media id="fs-id6994246" alt="A picture of ">
+  <image src="../../media/079_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+</para>
+</section>
+
+<para id="fs-id11354838">
+<media id="fs-id11354840" alt="A picture of a young boy, Gopalji."><image src="../../media/gopalji.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+My name is Gopalji Srivastava. I am in class 5 and never miss a
+movie by Amitabh Bachchan and Kajol. I also enjoy badminton
+and the Bhangra.<newline/><newline/>
+Thank you for buying this book. My friends and I will get to read
+many more books in our library because you bought this book.
+</para>
+
+<para id="fs-id11364952">
+Mala Kumar is a journalist, writer and editor based in Bangalore. Her stories for
+children have won awards from Children’s Book Trust. She discovered her love for
+teaching while conducting non-formal workshops in Mathematics in schools, using
+the day’s newspaper instead of text-books.
+</para>
+
+<para id="fs-id8679248">
+Angie is a graphic designer and in her spare time loves to keep busy with ceramic.
+Upesh is an animator who collects graphic novels and catches up with odd films in his
+spare time. Together they form ‘The Other Design Studio’.
+</para>
+
+<para id="fs-id11775099">
+<media id="fs-id11775101" alt="A picture of Sankhya and Ganith working in a maths book."><image src="../../media/002_maths_1.jpg" mime-type="image/jpeg"/>
+</media>
+<newline/>
+This is a Mathematics book with a difference.
+There are more stories here than problems!
+So read the stories, take in the mixture of facts and fiction and
+enjoy teasing your brain.
+</para>
+
+<para id="fs-id11539650">
+<title>Titles in this series</title>
+<emphasis>Happy Maths 1 : </emphasis>Numbers <newline/>
+<emphasis>Happy Maths 2 : </emphasis>Shapes and Data <newline/>
+<emphasis>Happy Maths 3 : </emphasis>Measurements <newline/>
+<emphasis>Happy Maths 4 : </emphasis>Time and Money <newline/>
+</para>
+
+<para id="fs-id11805948">
+For more information on all our titles please visit
+<link url="www.prathambooks.org">www.prathambooks.org</link>
+</para>
+
+<para id="fs-id9750164">
+Our books are available in English, Hindi, Tamil, Telugu,
+Kannada, Marathi, Gujarati, Bengali, Punjabi, Urdu and Oriya.
+</para>
+
+<para id="fs-id9654864">
+<emphasis>Pratham Books</emphasis> is a not-for-profit publisher that produces
+high-quality and affordable children’s books in Indian languages.
+</para>
+
+<para id="fs-id11800745">
+Age Group: 11 - 14 years<newline/>
+Happy Maths - 2 Shapes and Data (English)<newline/>
+MRP: Rs. 25.00<newline/>
+</para>
+
+
+  </content>
+  
+
+</document>
